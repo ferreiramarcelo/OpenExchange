@@ -1,13 +1,13 @@
-Flask==0.10.1
+Flask==0.12.3
 Flask-Bootstrap==3.3.0.1
 Flask-Mail==0.9.1
 Flask-WTF==0.10.3
 GnuPGInterface==0.3.2
-Jinja2==2.7.3
+Jinja2==2.11.3
 MarkupSafe==0.23
 SQLAlchemy==0.9.8
 WTForms==2.0.1
-Werkzeug==0.9.6
+Werkzeug==0.11.6
 apt-xapian-index==0.44
 argparse==1.2.1
 blinker==1.3
